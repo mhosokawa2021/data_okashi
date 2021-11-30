@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+.result_table{
+    margin: 0 auto;
+}
+
+.okashi_result_box img{
+    width: 150px;
+}
+
+.maxWidth {
+max-width: 680px;
+}
+
+.o_search{
+    background-image: url(../img/bk_ch.png);
+    background-size: 73%;
+}
+
+.okashi_result_box {
+    columns: 3;
+ }
+
+
+.maxWidth2 {
+max-width: 80%;
+margin: 0 auto;
+}
